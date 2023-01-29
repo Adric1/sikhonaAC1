@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+table,
+td,
+th {
+  border: 1px solid black;
+}
+
+td {
+  text-align: left;
+  width: 200px;
+}
+th {
+  text-align: center;
+}
